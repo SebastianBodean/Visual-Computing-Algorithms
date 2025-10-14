@@ -24,11 +24,11 @@ Each notebook is self-contained and designed to present my journey in understand
 
 ### Change Detection
 
-    ![GMM Demo](<Demos/GMM Demo.gif>)
+  ![GMM Demo](<Demos/GMM Demo.gif>)
 
 ### Object Tracking
 
-    ![Tracking Demo](<Demos/Tracking Demo.gif>)
+  ![Tracking Demo](<Demos/Tracking Demo.gif>)
 
 ### Depth Extraction
 
