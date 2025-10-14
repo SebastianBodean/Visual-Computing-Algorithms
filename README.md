@@ -22,17 +22,17 @@ Each notebook is self-contained and designed to present my journey in understand
 
 ## Algorithms
 
-* Change Detection
+### Change Detection
 
     ![GMM Demo](<Demos/GMM Demo.gif>)
 
-* Object Tracking
+### Object Tracking
 
     ![Tracking Demo](<Demos/Tracking Demo.gif>)
 
-* Depth Extraction
+### Depth Extraction
 
-* Image Filtering using Fourier Transforms
+### Image Filtering using Fourier Transforms
 
 ## What’s included in this repo
 
@@ -61,7 +61,7 @@ Each notebook is self-contained and designed to present my journey in understand
 
 ## Installation
 
-To run these notebooks locally, I reccomend the following steps:
+To run these notebooks locally, I recommend the following steps:
 
 * Clone this repository:
 
